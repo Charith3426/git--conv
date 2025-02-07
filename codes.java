@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //java.util.scanner package
 
 public class MonthToDaysConverter {
 
