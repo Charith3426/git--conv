@@ -11,7 +11,7 @@ public class PasswordValidator { // public classs
         scanner.close();
 
         if (isValidPassword(password)) {
-            System.out.println("Valid Password");
+            system.out.println("Valid Password");
         } else {
             System.out.println("Not a Valid Password");
         }
